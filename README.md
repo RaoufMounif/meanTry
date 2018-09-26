@@ -1,2 +1,2 @@
 # meanTry
-Mean Stack project 
+Mean Stack project can help to start a real world web apps 
