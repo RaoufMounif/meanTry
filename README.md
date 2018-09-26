@@ -1,0 +1,2 @@
+# meanTry
+Mean Stack project 
